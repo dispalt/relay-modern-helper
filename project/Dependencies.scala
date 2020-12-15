@@ -12,7 +12,7 @@ object Version {
   final val Slinky         = "0.6.5"
   final val Scalajs        = org.scalajs.sbtplugin.ScalaJSPlugin.autoImport.scalaJSVersion
   final val ScalajsBundler = "0.15.0-0.6"
-  final val ScalaTest      = "3.0.8"
+  final val ScalaTest      = "3.2.2"
   final val Sangria        = "2.0.0-M1"
 
 }
