@@ -36,7 +36,7 @@ lazy val `sbt-relay-compiler` = project
     sbtPlugin := true,
     addSbtPlugin("org.scala-js"       % "sbt-scalajs"              % Version.Scalajs),
     addSbtPlugin("ch.epfl.scala"      % "sbt-scalajs-bundler"      % Version.ScalajsBundler),
-    addSbtPlugin("org.portable-scala" % "sbt-scalajs-crossproject" % "0.6.1"),
+    addSbtPlugin("org.portable-scala" % "sbt-scalajs-crossproject" % "1.0.0"),
     scriptedLaunchOpts += "-Dplugin.version=" + version.value,
     scriptedBufferLog := false,
     scriptedDependencies := {
