@@ -1,6 +1,6 @@
 addSbtPlugin("org.scala-js" % "sbt-scalajs" % "1.5.0")
 
-addSbtPlugin("org.xerial.sbt"     % "sbt-sonatype"             % "2.5")
+addSbtPlugin("org.xerial.sbt"     % "sbt-sonatype"             % "2.6")
 addSbtPlugin("com.github.gseitz"  % "sbt-release"              % "1.0.13")
 addSbtPlugin("com.jsuereth"       % "sbt-pgp"                  % "1.1.2")
 addSbtPlugin("org.portable-scala" % "sbt-scalajs-crossproject" % "1.0.0")
