@@ -6,7 +6,7 @@ import org.portablescala.sbtplatformdeps.PlatformDepsPlugin.autoImport._
 
 object Version {
   final val Scala211 = "2.11.11"
-  final val Scala212 = "2.12.10"
+  final val Scala212 = "2.12.14"
   final val Scala213 = "2.13.5"
 
   final val Slinky  = "0.6.7"
